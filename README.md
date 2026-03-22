@@ -1,9 +1,11 @@
-# Hey, I'm James
+### Hello, I'm James... [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org)
 
-**`runeplatelegs`** — Designer. Builder. Academic Angel.
 
-[![Website](https://img.shields.io/badge/metawavestudio.com-FF6B6B?style=flat-square&logo=safari&logoColor=white)](https://metawavestudio.com)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org)
+I spend a lot of my time researching and building tools for people who enjoy lab coats and scientific exploration. My lifetime goal is to reach the Ethereal Horizon, and to get there I've created a 12-week course, check it out at https://www.mentalwealthacademy.world.
+
+One of my favorite books is: https://www.amazon.com/Crime-Reason-Closing-Scientific-Mind/dp/0465005071
+
+Another on the topic of Academic funding: https://www.amazon.com/Scientific-Freedom-Civilization-Donald-Braben/dp/0578675919
 
 <div align="center">
 
