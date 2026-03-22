@@ -5,7 +5,7 @@ I spend a lot of my time researching and building tools for people who enjoy lab
 
 One of my favorite books is: https://www.amazon.com/Crime-Reason-Closing-Scientific-Mind/dp/0465005071
 
-Another on the topic of Academic funding: https://www.amazon.com/Scientific-Freedom-Civilization-Donald-Braben/dp/0578675919
+Another on Academic funding: https://www.amazon.com/Scientific-Freedom-Civilization-Donald-Braben/dp/0578675919
 
 <div align="center">
 
@@ -13,7 +13,6 @@ Another on the topic of Academic funding: https://www.amazon.com/Scientific-Free
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
